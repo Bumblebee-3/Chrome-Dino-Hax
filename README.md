@@ -1,4 +1,4 @@
-# CHrome-Dino-Hax
+# Chrome-Dino-Hax
 ## A simple method to Skam your friends (and astound them too) by "hecking" Chrome's Dino Game.
 
 #### Hello, I am going to show you how to "hack" google dino game in few easy steps.
