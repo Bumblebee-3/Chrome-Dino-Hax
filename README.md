@@ -19,7 +19,7 @@ Runner.prototype.gameOver = function(){} // changing it to an empty finction XD
  ```js
 Runner.instance_.setSpeed(5000)//sets the dino's speed to 5000 points per second
  ```
-#### Now trying to play the game, you will notice that the dino's speed Increases...
+#### Now trying to play the game, you will notice that the dino's speed Increases... Change the speed to `-1` any your dino will go backwards XD
 ### Stopping The Game
 #### After some time, you may want to stop the game, to save the score. Because we have removed obstacles, the game will keep on going on forever. So, now we are going to use the variable defined earlier as `originalGameOver` to edit the GameOver function.
 - Open Inspect Element in Google Chrome `Ctrl + Shift + I`.
