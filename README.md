@@ -29,5 +29,7 @@ Runner.instance_.setSpeed(5000)//sets the dino's speed to 5000 points per second
 Runner.prototype.GameOver = originalGameOver //resetting the gameOver function.
 ```
 #### Now play, and the obstacles will be back. Then collide with the obstacle...
+![image](https://user-images.githubusercontent.com/85351846/170872468-39402f83-8749-4fda-8851-f69cb0b68c84.png)
+
 
 ## THE END - Hope you liked this simple tutorial. If you did, please star this repo and share it with friends :)
