@@ -31,5 +31,7 @@ Runner.prototype.GameOver = originalGameOver //resetting the gameOver function.
 #### Now play, and the obstacles will be back. Then collide with the obstacle...
 ![image](https://user-images.githubusercontent.com/85351846/170872468-39402f83-8749-4fda-8851-f69cb0b68c84.png)
 
+Also check out [the "extra" folder](https://github.com/Bumblebee-3/Chrome-Dino-Hax/tree/main/extra) for more hacks.
+
 
 ## THE END - Hope you liked this simple tutorial. If you did, please star this repo and share it with friends :)
